@@ -1,0 +1,70 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "d:/Disk Google/Arduino/MacroKeyboard/include",
+                "d:/Disk Google/Arduino/MacroKeyboard/src",
+                "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/HID-Project/src",
+                "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/ClickEncoder",
+                "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/TimerOne",
+                "C:/Users/24mar/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/24mar/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro",
+                "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/Keyboard/src",
+                "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/24mar/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/Disk Google/Arduino/MacroKeyboard/include",
+                    "d:/Disk Google/Arduino/MacroKeyboard/src",
+                    "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/HID-Project/src",
+                    "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/ClickEncoder",
+                    "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/TimerOne",
+                    "C:/Users/24mar/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/24mar/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro",
+                    "d:/Disk Google/Arduino/MacroKeyboard/.pio/libdeps/sparkfun_promicro16/Keyboard/src",
+                    "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/24mar/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/24mar/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "ARDUINO_AVR_PROMICRO16",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "USB_VID=0x1B4F",
+                "USB_PID=0x9206",
+                "USB_PRODUCT=\"SparkFun Pro Micro\"",
+                "USB_MANUFACTURER=\"SparkFun\"",
+                "__AVR_ATmega32U4__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/24mar/.platformio/packages/toolchain-atmelavr@1.50400.190710/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega32u4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
